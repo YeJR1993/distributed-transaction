@@ -13,6 +13,7 @@
         <module>server-order</module>
         <module>server-integral</module>
         <module>bank-eureka</module>
+        <module>bank-gateway</module>
     </modules>
 
     <properties>

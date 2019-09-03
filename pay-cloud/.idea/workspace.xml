@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b6f0c43-755b-4745-9b60-c1fe24ea22f6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../bank-cloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bank-cloud/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pay-eureka/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/java/com/shanghai/pay/EurekaApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/pay-eureka/src/main/java/com/shanghai/pay/EurekaApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pay-eureka/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/pay-eureka/target/classes/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/eureka/target/classes/com/shanghai/pay/EurekaApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/pay-eureka/target/classes/com/shanghai/pay/EurekaApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8b6f0c43-755b-4745-9b60-c1fe24ea22f6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,7 +186,17 @@
       <serviceView>
         <option name="contentProportion" value="0.21789618" />
         <treeState>
-          <expand />
+          <expand>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c71d75c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+            <path>
+              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c71d75c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f48a516" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+            </path>
+          </expand>
           <select />
         </treeState>
       </serviceView>
@@ -220,8 +219,16 @@
       <workItem from="1567317557269" duration="3676000" />
       <workItem from="1567321919183" duration="953000" />
       <workItem from="1567322879470" duration="2441000" />
-      <workItem from="1567475514830" duration="54000" />
+      <workItem from="1567475514830" duration="249000" />
     </task>
+    <task id="LOCAL-00001" summary="模块名修改">
+      <created>1567475722329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1567475722329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -237,5 +244,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="模块名修改" />
+    <option name="LAST_COMMIT_MESSAGE" value="模块名修改" />
   </component>
 </project>

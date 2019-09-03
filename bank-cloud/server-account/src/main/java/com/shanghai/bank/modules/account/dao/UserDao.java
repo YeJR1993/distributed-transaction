@@ -12,9 +12,10 @@ import org.apache.ibatis.annotations.Mapper;
 public interface UserDao {
 
     /**
-     * 通过用户ID获取用户信息
-     * @param id
+     * 通过姓名和身份证查询用户信息
+     * @param userName
+     * @param idCard
      * @return
      */
-    User getById(Integer id);
+    User getByNameAndCard(String userName, String idCard);
 }

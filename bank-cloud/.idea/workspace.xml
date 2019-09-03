@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b6f0c43-755b-4745-9b60-c1fe24ea22f6" name="Default Changelist" comment="" />
+    <list default="true" id="8b6f0c43-755b-4745-9b60-c1fe24ea22f6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/bank-gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/service/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/service/impl/AccountServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/web/AccountController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/dao/UserDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-account/src/main/resources/mappings/modules/account/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-account/src/main/resources/mappings/modules/account/UserDao.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pay-cloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pay-cloud/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -27,8 +39,11 @@
     </option>
   </component>
   <component name="ProjectId" id="1QB4NEDEAi04NOHVYvPbmZzdSM1" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
@@ -186,17 +201,7 @@
       <serviceView>
         <option name="contentProportion" value="0.19751082" />
         <treeState>
-          <expand>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c71d75c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@3c71d75c" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceGroupNode@f48a516" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-            </path>
-          </expand>
+          <expand />
           <select />
         </treeState>
       </serviceView>
@@ -218,6 +223,7 @@
       <workItem from="1567313863061" duration="3557000" />
       <workItem from="1567317557269" duration="3676000" />
       <workItem from="1567475178766" duration="326000" />
+      <workItem from="1567475768550" duration="5679000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块名">
       <created>1567475460084</created>
@@ -237,13 +243,16 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="调整模块名" />
     <option name="LAST_COMMIT_MESSAGE" value="调整模块名" />
   </component>

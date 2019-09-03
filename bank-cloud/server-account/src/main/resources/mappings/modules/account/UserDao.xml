@@ -9,8 +9,8 @@
     	create_time AS createTime
   	</sql>
 
-    <select id="getById" resultType="com.shanghai.bank.modules.account.entity.User" >
-        SELECT <include refid="userColumn" /> FROM user WHERE id = #{id}
+    <select id="getByNameAndCard" resultType="com.shanghai.bank.modules.account.entity.User" >
+        SELECT <include refid="userColumn" /> FROM user WHERE user_name = #{userName} AND id_card = #{idCard}
     </select>
 
 </mapper>
