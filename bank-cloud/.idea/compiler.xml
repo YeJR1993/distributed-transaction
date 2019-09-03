@@ -7,9 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="server-account" />
-        <module name="server-integral" />
+        <module name="bank-eureka" />
         <module name="server-order" />
-        <module name="eureka" />
+        <module name="server-integral" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
