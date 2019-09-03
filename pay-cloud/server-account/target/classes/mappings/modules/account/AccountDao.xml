@@ -5,14 +5,8 @@
     <sql id="accountColumn" >
     	id AS id,
     	user_id AS userId,
-    	card_num AS cardNum,
-    	balance AS balance,
-    	status AS status,
-    	create_time AS createTime
+    	card_num AS cardNum
   	</sql>
 
-	<select id="getByIdAndCardNum" resultType="com.shanghai.pay.modules.account.entity.Account" >
-		SELECT <include refid="accountColumn" /> FROM account WHERE card_num = #{cardNum} AND  user_id = #{userId}
-	</select>
 
 </mapper>

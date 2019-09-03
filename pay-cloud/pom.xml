@@ -12,7 +12,7 @@
         <module>server-account</module>
         <module>server-order</module>
         <module>server-integral</module>
-        <module>eureka</module>
+        <module>pay-eureka</module>
     </modules>
 
     <properties>

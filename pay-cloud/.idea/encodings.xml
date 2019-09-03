@@ -2,7 +2,7 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/pay-eureka" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-account" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-integral" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server-order" charset="UTF-8" />

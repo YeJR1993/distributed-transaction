@@ -4,13 +4,10 @@
 
     <sql id="userColumn" >
     	id AS id,
+    	phone AS phone,
     	user_name AS userName,
-    	id_card AS idCard,
-    	create_time AS createTime
+    	status AS status
   	</sql>
 
-    <select id="getById" resultType="com.shanghai.pay.modules.account.entity.User" >
-        SELECT <include refid="userColumn" /> FROM user WHERE id = #{id}
-    </select>
 
 </mapper>
