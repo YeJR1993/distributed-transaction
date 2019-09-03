@@ -1,8 +1,6 @@
 package com.shanghai.bank.modules.account.service.impl;
 
-import com.fasterxml.jackson.databind.annotation.JsonAppend;
 import com.shanghai.bank.modules.account.dao.UserDao;
-import com.shanghai.bank.modules.account.entity.User;
 import com.shanghai.bank.modules.account.service.AccountService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b6f0c43-755b-4745-9b60-c1fe24ea22f6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bank-gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/service/AccountService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/service/impl/AccountServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/web/AccountController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/dao/UserDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/dao/UserDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server-account/src/main/resources/mappings/modules/account/UserDao.xml" beforeDir="false" afterPath="$PROJECT_DIR$/server-account/src/main/resources/mappings/modules/account/UserDao.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pay-cloud/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../pay-cloud/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/service/impl/AccountServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/server-account/src/main/java/com/shanghai/bank/modules/account/service/impl/AccountServiceImpl.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -224,6 +214,7 @@
       <workItem from="1567317557269" duration="3676000" />
       <workItem from="1567475178766" duration="326000" />
       <workItem from="1567475768550" duration="5679000" />
+      <workItem from="1567491680158" duration="157000" />
     </task>
     <task id="LOCAL-00001" summary="调整模块名">
       <created>1567475460084</created>
@@ -232,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567475460084</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="添加代码">
+      <created>1567491806584</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567491806584</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -254,6 +252,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="调整模块名" />
-    <option name="LAST_COMMIT_MESSAGE" value="调整模块名" />
+    <MESSAGE value="添加代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加代码" />
   </component>
 </project>
