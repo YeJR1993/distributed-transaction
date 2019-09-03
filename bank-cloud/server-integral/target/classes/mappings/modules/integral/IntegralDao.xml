@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.shanghai.bank.modules.integral.dao.IntegralDao">
+
+    <sql id="integralColumn" >
+    	id AS id,
+    	user_id AS userId,
+    	integral_num AS integralNum
+  	</sql>
+
+	<select id="getById" resultType="com.shanghai.bank.modules.integral.entity.Integral" >
+		SELECT <include refid="integralColumn" /> FROM integral WHERE id = #{id}
+	</select>
+
+</mapper>
